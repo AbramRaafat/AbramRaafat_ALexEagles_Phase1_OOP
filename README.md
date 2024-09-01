@@ -1,7 +1,7 @@
 # AbramRaafat_ALexEagles_Phase1_OOP
 
-> the gool of this task is to create a flight booking system.
-> this task require the interaction between different systems and object OOP paradigm is preferred.
+> the gool of this task is to create a flight booking system. <br/>
+> this task require the interaction between different systems so object OOP paradigm is preferred.
 
 
 Final note: When it comes to the actual booking system, I didn’t finish it since I have an exam in two days. However, you can still get a great insight into how the system works in the data generation file.
